@@ -6,6 +6,8 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: c0d3 Website
     url: https://c0d3.ch
+  - name: upptime
+    url: https://up.c0d3.ch
   - name: BookStack
     url: $SITE_BOOKSTACK
   - name: Partkeepr
