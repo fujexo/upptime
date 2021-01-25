@@ -1,26 +1,24 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: fujexo # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: c0d3 Website
+    url: https://c0d3.ch
+  - name: BookStack
+    url: $SITE_BOOKSTACK
+  - name: Partkeepr
+    url: $SITE_PARTKEEPR
+  - name: Grafana
+    url: $SITE_GRAFANA
+  - name: InfluxDB
+    url: $SITE_INFLUXDB
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: up.c0d3.ch
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
@@ -31,7 +29,11 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/fujexo/upptime
+      
+commitMessages:
+  commitAuthorName: "fujexo's upptime"
+  commitAuthorEmail: "fujexo@c0d3.ch"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
