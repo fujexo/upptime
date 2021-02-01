@@ -76,19 +76,19 @@
     "url": "$SITE_GRAFANA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 671,
-    "timeWeek": 599,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 613,
+    "timeDay": 682,
+    "timeWeek": 611,
+    "timeMonth": 613,
+    "timeYear": 613,
     "dailyMinutesDown": {
-      "2021-02-01": 0
+      "2021-02-01": 25
     }
   },
   {
