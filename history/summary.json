@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 430,
     "timeDay": 574,
-    "timeWeek": 430,
+    "timeWeek": 434,
     "timeMonth": 430,
     "timeYear": 430,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 140,
     "timeDay": 141,
-    "timeWeek": 140,
+    "timeWeek": 135,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 728,
     "timeDay": 834,
-    "timeWeek": 728,
+    "timeWeek": 759,
     "timeMonth": 728,
     "timeYear": 728,
     "dailyMinutesDown": {}
@@ -76,18 +76,20 @@
     "url": "$SITE_GRAFANA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 895,
-    "timeWeek": 621,
-    "timeMonth": 621,
-    "timeYear": 621,
-    "dailyMinutesDown": {}
+    "time": 604,
+    "timeDay": 671,
+    "timeWeek": 599,
+    "timeMonth": 604,
+    "timeYear": 604,
+    "dailyMinutesDown": {
+      "2021-02-01": 0
+    }
   },
   {
     "name": "InfluxDB",
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 495,
-    "timeWeek": 391,
+    "timeWeek": 389,
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {}
