@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 425,
-    "timeDay": 402,
-    "timeWeek": 361,
-    "timeMonth": 419,
-    "timeYear": 425,
+    "time": 423,
+    "timeDay": 293,
+    "timeWeek": 360,
+    "timeMonth": 412,
+    "timeYear": 423,
     "dailyMinutesDown": {
       "2021-03-03": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 132,
-    "timeWeek": 126,
-    "timeMonth": 147,
-    "timeYear": 140,
+    "time": 139,
+    "timeDay": 78,
+    "timeWeek": 128,
+    "timeMonth": 148,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 693,
-    "timeDay": 628,
-    "timeWeek": 625,
+    "time": 690,
+    "timeDay": 525,
+    "timeWeek": 623,
     "timeMonth": 658,
-    "timeYear": 693,
+    "timeYear": 690,
     "dailyMinutesDown": {
       "2021-03-03": 17
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "partkeepr",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
-    "time": 620,
-    "timeDay": 531,
-    "timeWeek": 566,
-    "timeMonth": 615,
-    "timeYear": 620,
+    "uptimeYear": "99.98%",
+    "time": 619,
+    "timeDay": 561,
+    "timeWeek": 573,
+    "timeMonth": 612,
+    "timeYear": 619,
     "dailyMinutesDown": {
       "2021-03-03": 17
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
-    "time": 620,
-    "timeDay": 490,
-    "timeWeek": 575,
-    "timeMonth": 614,
-    "timeYear": 620,
+    "time": 618,
+    "timeDay": 495,
+    "timeWeek": 576,
+    "timeMonth": 610,
+    "timeYear": 618,
     "dailyMinutesDown": {
       "2021-03-03": 17,
       "2021-02-01": 25
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 384,
-    "timeDay": 392,
-    "timeWeek": 331,
-    "timeMonth": 376,
-    "timeYear": 384,
+    "time": 383,
+    "timeDay": 307,
+    "timeWeek": 333,
+    "timeMonth": 373,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2021-03-03": 16
     }
