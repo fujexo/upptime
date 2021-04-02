@@ -1,7 +1,7 @@
 url: $SITE_INFLUXDB
 status: up
 code: 200
-responseTime: 295
-lastUpdated: 2021-04-01T23:12:23.896Z
+responseTime: 574
+lastUpdated: 2021-04-02T23:03:21.726Z
 startTime: Mon Jan 25 2021 07:32:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
