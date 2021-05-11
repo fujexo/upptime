@@ -62,9 +62,9 @@
     "url": "$SITE_PARTKEEPR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "partkeepr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +74,7 @@
     "timeMonth": 699,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2021-05-11": 0,
       "2021-03-03": 17
     }
   },
